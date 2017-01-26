@@ -1,0 +1,82 @@
+
+@font-face {
+
+      font-family: "font";
+      src: url("fonts/font.ttf") format("truetype");
+
+      }
+body{
+	background-color: #2d2d2d;
+    font-family: 'Quicksand', sans-serif;
+}
+.content{
+ 	 padding-left: 10px;
+    padding-right: 10px;
+}
+
+h2{
+    font-family: "font";
+    font-size: 25px;
+    color: white;
+    font-weight: 100;
+    font-size: 72px;
+    height: 13px;
+}
+h1{
+    font-family: "font";
+    color: white;
+    font-weight: 100;
+    font-size: 69px;
+    margin-top: 24px;
+}
+.title{
+
+	font-family: "font";
+    font-size: 25px;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+  
+}
+.title .h2{
+    text-align: left;}
+
+
+i{
+	    color: #ff823e;
+           margin-left: 15px;
+
+}
+.raposa{
+        height: 356px;
+        margin-top: 61px;
+    
+}
+
+
+h2{
+    margin-bottom: 30px;
+    margin-left: -8px;
+    margin-top: -40px;
+    font-size: 24px;
+    font-weight: 100;
+    font-family: 'Quicksand', sans-serif;
+}
+h3{
+        margin-top: 0px;
+}
+.face{
+    color: rgb(255, 130, 62);
+    font-size: 44px;
+}
+.insta{
+    color: rgb(255, 130, 62);
+    font-size: 44px;
+}
+.gplus{
+    color: rgb(255, 130, 62);
+    font-size: 44px;
+}
+.none{
+    display: none;
+}
